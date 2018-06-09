@@ -12,4 +12,4 @@ The wrangling report summarizes the data quality and tidiness issues faced in th
 
 The act report provides somes insights and visualizations after we cleaned the data. 
 
-Project context: Udacity Data Analyst Nanodegree Project
+_**Project context**_: Udacity Data Analyst Nanodegree
